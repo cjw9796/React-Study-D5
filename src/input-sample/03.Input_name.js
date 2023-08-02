@@ -1,5 +1,6 @@
 //1) 이름 변경하는 컴포넌트 만들기
 // 과제  2번 
+// 수정 
 import { useState } from "react";
 
 function Inputname(){
